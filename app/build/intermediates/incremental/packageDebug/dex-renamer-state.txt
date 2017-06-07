@@ -1,0 +1,4 @@
+#Wed Jun 07 23:35:52 ICT 2017
+base.0=/Users/ger/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ger/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
